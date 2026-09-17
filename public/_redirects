@@ -1,0 +1,40 @@
+# Clean URL redirects for Render static hosting
+# Generated: 2026-09-17T12:56:02.213Z
+# NOTE: Render uses render.yaml for routing, not _redirects (that is Netlify)
+# This file is kept for reference only
+
+/menu-group-1789562419535  /menu-group-1789562419535.html  200!
+/three-religions  /three-religions.html  200!
+/sanctification-of-jerusalem-in-judaism  /sanctification-of-jerusalem-in-judaism.html  200!
+/sanctity-of-jerusalem-in-christianity  /sanctity-of-jerusalem-in-christianity.html  200!
+/jerusalems-sanctification-to-islam  /jerusalems-sanctification-to-islam.html  200!
+/menu-group-1789562473499  /menu-group-1789562473499.html  200!
+/privacy  /privacy.html  200!
+/accessibility  /accessibility.html  200!
+/terms  /terms.html  200!
+/thank-you  /thank-you.html  200!
+/menu-group-1789562528830  /menu-group-1789562528830.html  200!
+/contact  /contact.html  200!
+
+# Language slug rewrites for SEO
+/en  /en/index.html  200!
+/en/three-religions  /en/three-religions.html  200!
+/en/sanctification-of-jerusalem-in-judaism  /en/sanctification-of-jerusalem-in-judaism.html  200!
+/en/sanctity-of-jerusalem-in-christianity  /en/sanctity-of-jerusalem-in-christianity.html  200!
+/en/jerusalems-sanctification-to-islam  /en/jerusalems-sanctification-to-islam.html  200!
+/en/privacy  /en/privacy.html  200!
+/en/accessibility  /en/accessibility.html  200!
+/en/terms  /en/terms.html  200!
+/en/thank-you  /en/thank-you.html  200!
+/en/contact  /en/contact.html  200!
+/en  /en/index.html  200!
+
+# Legal pages - redirect old .html URLs to friendly URLs
+/privacy.html  /privacy  301
+/accessibility.html  /accessibility  301
+/terms.html  /terms  301
+
+/  /index.html  200!
+
+# SPA fallback - serve index.html for all unmatched routes
+/*  /index.html  200

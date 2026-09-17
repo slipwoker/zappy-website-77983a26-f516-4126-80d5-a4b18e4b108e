@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.com</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com" />
+  </url>
+  <url>
+    <loc>https://example.com/en</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com" />
+  </url>
+  <url>
+    <loc>https://example.com/menu-group-1789562419535</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/menu-group-1789562419535" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/menu-group-1789562419535" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/menu-group-1789562419535" />
+  </url>
+  <url>
+    <loc>https://example.com/en/menu-group-1789562419535</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/menu-group-1789562419535" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/menu-group-1789562419535" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/menu-group-1789562419535" />
+  </url>
+  <url>
+    <loc>https://example.com/three-religions</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/three-religions" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/three-religions" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/three-religions" />
+  </url>
+  <url>
+    <loc>https://example.com/en/three-religions</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/three-religions" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/three-religions" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/three-religions" />
+  </url>
+  <url>
+    <loc>https://example.com/sanctification-of-jerusalem-in-judaism</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/sanctification-of-jerusalem-in-judaism" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/sanctification-of-jerusalem-in-judaism" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/sanctification-of-jerusalem-in-judaism" />
+  </url>
+  <url>
+    <loc>https://example.com/en/sanctification-of-jerusalem-in-judaism</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/sanctification-of-jerusalem-in-judaism" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/sanctification-of-jerusalem-in-judaism" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/sanctification-of-jerusalem-in-judaism" />
+  </url>
+  <url>
+    <loc>https://example.com/sanctity-of-jerusalem-in-christianity</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/sanctity-of-jerusalem-in-christianity" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/sanctity-of-jerusalem-in-christianity" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/sanctity-of-jerusalem-in-christianity" />
+  </url>
+  <url>
+    <loc>https://example.com/en/sanctity-of-jerusalem-in-christianity</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/sanctity-of-jerusalem-in-christianity" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/sanctity-of-jerusalem-in-christianity" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/sanctity-of-jerusalem-in-christianity" />
+  </url>
+  <url>
+    <loc>https://example.com/jerusalems-sanctification-to-islam</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/jerusalems-sanctification-to-islam" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/jerusalems-sanctification-to-islam" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/jerusalems-sanctification-to-islam" />
+  </url>
+  <url>
+    <loc>https://example.com/en/jerusalems-sanctification-to-islam</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/jerusalems-sanctification-to-islam" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/jerusalems-sanctification-to-islam" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/jerusalems-sanctification-to-islam" />
+  </url>
+  <url>
+    <loc>https://example.com/menu-group-1789562473499</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/menu-group-1789562473499" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/menu-group-1789562473499" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/menu-group-1789562473499" />
+  </url>
+  <url>
+    <loc>https://example.com/en/menu-group-1789562473499</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/menu-group-1789562473499" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/menu-group-1789562473499" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/menu-group-1789562473499" />
+  </url>
+  <url>
+    <loc>https://example.com/thank-you</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/thank-you" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/thank-you" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/thank-you" />
+  </url>
+  <url>
+    <loc>https://example.com/en/thank-you</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/thank-you" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/thank-you" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/thank-you" />
+  </url>
+  <url>
+    <loc>https://example.com/menu-group-1789562528830</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/menu-group-1789562528830" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/menu-group-1789562528830" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/menu-group-1789562528830" />
+  </url>
+  <url>
+    <loc>https://example.com/en/menu-group-1789562528830</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/menu-group-1789562528830" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/menu-group-1789562528830" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/menu-group-1789562528830" />
+  </url>
+  <url>
+    <loc>https://example.com/contact</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/contact" />
+  </url>
+  <url>
+    <loc>https://example.com/en/contact</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/contact" />
+  </url>
+  <url>
+    <loc>https://example.com/privacy</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/privacy" />
+  </url>
+  <url>
+    <loc>https://example.com/en/privacy</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/privacy" />
+  </url>
+  <url>
+    <loc>https://example.com/terms</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/terms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/terms" />
+  </url>
+  <url>
+    <loc>https://example.com/en/terms</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/terms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/terms" />
+  </url>
+  <url>
+    <loc>https://example.com/accessibility</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/accessibility" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/accessibility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/accessibility" />
+  </url>
+  <url>
+    <loc>https://example.com/en/accessibility</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/accessibility" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/accessibility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/accessibility" />
+  </url>
+</urlset>

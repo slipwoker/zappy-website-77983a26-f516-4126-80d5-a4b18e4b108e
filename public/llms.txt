@@ -1,0 +1,107 @@
+# חלום ירושלים — Generative Engine Optimization Map
+
+> A certified tour guide with over 20 years of experience offering a rich variety of experiential tours, ceremonial participations, and educational lectures. The brand centers around deep cultural and personal immersion, combining knowledge with hands-on experiences. The tone is professional yet warm, rooted in years of expertise and passion for sharing meaningful journeys.
+
+---
+
+## Pages
+
+### גלו את הקסם הנסתר של ירושלים — חלום ירושלים
+https://example.com
+צללו לחוויה בלתי נשכחת עם מורה דרך מוסמך בעל ניסיון של 20 שנה. סיורים, טקסים והרצאות שמחברים אתכם לעומק התרבותי של ירושלים. הזמינו את המסע שלכם עוד היום!
+
+### Page
+https://example.com/menu-group-1789562419535
+
+### צעדו בסמטאות העתיקות והרגישו את ההיסטוריה — חלום ירושלים
+https://example.com/three-religions
+הצטרפו לסיורי עומק חווייתיים בירושלים, מהעיר העתיקה ועד הר הזיתים. כל מסלול נארג בתשוקה לחשוף רבדים נסתרים של תרבות ואמונה. בואו לחוות את העיר מחדש!
+
+### Page
+https://example.com/sanctification-of-jerusalem-in-judaism
+
+### Page
+https://example.com/sanctity-of-jerusalem-in-christianity
+
+### התקדשות ירושלים לאיסלאם
+https://example.com/jerusalems-sanctification-to-islam
+
+### Page
+https://example.com/menu-group-1789562473499
+
+### תודה שפניתם אלינו
+https://example.com/thank-you
+חלום ירושלים - תודה שפניתם אלינו
+
+### Page
+https://example.com/menu-group-1789562528830
+
+### המסע המושלם שלכם מתחיל בשיחה אחת — חלום ירושלים
+https://example.com/contact
+מוכנים לצאת להרפתקה תרבותית עמוקה? צרו קשר עוד היום כדי לתכנן סיור מותאם אישית, להזמין הרצאה או להשתתף בטקס ייחודי. אנחנו כאן כדי להגשים את חלום ירושלים שלכם!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- Email: Rafarsemon@Gmail.Com
+- Phone: +972-54-5570980
+- Phone (tel): tel:+972545570980
+- Address: קורא הדורות 23, ירושלים
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About חלום ירושלים
+A certified tour guide with over 20 years of experience offering a rich variety of experiential tours, ceremonial participations, and educational lectures. The brand centers around deep cultural and personal immersion, combining knowledge with hands-on experiences. The tone is professional yet warm, rooted in years of expertise and passion for sharing meaningful journeys.
+
+## Services/Products
+- סיורים חווייתיים
+- השתתפות בטקסים
+- הרצאות
+
+## Target Audience
+- תיירים דתיים
+- צוותי חברות
+- חובבי אירועים תרבותיים
+- קהל מתעניין בתרבות והיסטוריה
+- חברות הי-טק ואנשי עסקים מהארץ ומחו"ל
+- צליינים
+
+## Industry
+Tourism & Guided Tours
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
