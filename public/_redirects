@@ -1,10 +1,11 @@
 # Clean URL redirects for Render static hosting
-# Generated: 2026-09-17T13:08:51.598Z
+# Generated: 2026-09-17T13:10:25.279Z
 # NOTE: Render uses render.yaml for routing, not _redirects (that is Netlify)
 # This file is kept for reference only
 
 /menu-group-1789562419535  /menu-group-1789562419535.html  200!
 /three-religions  /three-religions.html  200!
+/holiness-of-jerusalem-in-judaism  /holiness-of-jerusalem-in-judaism.html  200!
 /menu-group-1789562473499  /menu-group-1789562473499.html  200!
 /privacy  /privacy.html  200!
 /accessibility  /accessibility.html  200!
@@ -12,17 +13,16 @@
 /thank-you  /thank-you.html  200!
 /menu-group-1789562528830  /menu-group-1789562528830.html  200!
 /contact  /contact.html  200!
-/copy  /copy.html  200!
 
 # Language slug rewrites for SEO
 /en  /en/index.html  200!
 /en/three-religions  /en/three-religions.html  200!
+/en/holiness-of-jerusalem-in-judaism  /en/holiness-of-jerusalem-in-judaism.html  200!
 /en/privacy  /en/privacy.html  200!
 /en/accessibility  /en/accessibility.html  200!
 /en/terms  /en/terms.html  200!
 /en/thank-you  /en/thank-you.html  200!
 /en/contact  /en/contact.html  200!
-/en/copy  /en/copy.html  200!
 /en  /en/index.html  200!
 
 # Legal pages - redirect old .html URLs to friendly URLs
