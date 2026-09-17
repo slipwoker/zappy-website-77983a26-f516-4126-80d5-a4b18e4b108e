@@ -56,22 +56,58 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/three-religions" />
   </url>
   <url>
-    <loc>https://example.com/holiness-of-jerusalem-in-judaism</loc>
+    <loc>https://example.com/sanctification-of-jerusalem-in-judaism</loc>
     <lastmod>2026-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/holiness-of-jerusalem-in-judaism" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/holiness-of-jerusalem-in-judaism" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/holiness-of-jerusalem-in-judaism" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/sanctification-of-jerusalem-in-judaism" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/sanctification-of-jerusalem-in-judaism" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/sanctification-of-jerusalem-in-judaism" />
   </url>
   <url>
-    <loc>https://example.com/en/holiness-of-jerusalem-in-judaism</loc>
+    <loc>https://example.com/en/sanctification-of-jerusalem-in-judaism</loc>
     <lastmod>2026-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/holiness-of-jerusalem-in-judaism" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/holiness-of-jerusalem-in-judaism" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/holiness-of-jerusalem-in-judaism" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/sanctification-of-jerusalem-in-judaism" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/sanctification-of-jerusalem-in-judaism" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/sanctification-of-jerusalem-in-judaism" />
+  </url>
+  <url>
+    <loc>https://example.com/sanctity-of-jerusalem-in-christianity</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/sanctity-of-jerusalem-in-christianity" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/sanctity-of-jerusalem-in-christianity" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/sanctity-of-jerusalem-in-christianity" />
+  </url>
+  <url>
+    <loc>https://example.com/en/sanctity-of-jerusalem-in-christianity</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/sanctity-of-jerusalem-in-christianity" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/sanctity-of-jerusalem-in-christianity" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/sanctity-of-jerusalem-in-christianity" />
+  </url>
+  <url>
+    <loc>https://example.com/jerusalems-sanctification-to-islam</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/jerusalems-sanctification-to-islam" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/jerusalems-sanctification-to-islam" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/jerusalems-sanctification-to-islam" />
+  </url>
+  <url>
+    <loc>https://example.com/en/jerusalems-sanctification-to-islam</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/jerusalems-sanctification-to-islam" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/jerusalems-sanctification-to-islam" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/jerusalems-sanctification-to-islam" />
   </url>
   <url>
     <loc>https://example.com/menu-group-1789562473499</loc>
